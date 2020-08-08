@@ -6,7 +6,11 @@ import * as serviceWorker from './serviceWorker';
 import 'tachyons';
 
 ReactDOM.render(
-  <Card />,
+  <div>
+  <Card />
+  <Card />
+  <Card />
+  </div>,
   document.getElementById('root')
 );
 
