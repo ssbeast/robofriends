@@ -7,4 +7,4 @@ To run the project:
 2. Run `meteor npm install`
 3. Run `meteor npm start`
 
-# Made with :heart: by SSBEAST!
+# Made with :heart: by SSBEAST & ACER ASPIRE!
